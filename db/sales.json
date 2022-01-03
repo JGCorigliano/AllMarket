@@ -1,0 +1,215 @@
+{
+
+  "sales" : {
+    "-M5dLyjfwc0sTdYLATdH" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Xbox One Wireless Controller Black Color",
+      "quantity" : 4,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dM1bUGhXsgZGlvX_i" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Sound Intone I65 Earphone White Version",
+      "quantity" : 3,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dM4dXgz2xtVsYObi8" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Marshall Kilburn Portable Wireless",
+      "quantity" : 2,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dM7E8RudapQTx_N0T" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Samsung Gear VR Virtual Reality Headset",
+      "quantity" : 5,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dMBJF1ml0kfBUI235" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Sound Intone I65 Earphone White Version",
+      "quantity" : 2,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dMD-wYR6ytt_SEJMz" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Sound Intone I65 Earphone White Version 2",
+      "quantity" : 3,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dMEdkvkwC2RdqVNR9" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Paul’s Smith Sneaker InWhite Color",
+      "quantity" : 4,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dMGQz8h3hFE4Jl2O-" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Herschel Leather Duffle Bag In Brown Color 2",
+      "quantity" : 5,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNHX1elaTOQ_Lx40b" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Anna Sui Putty Mask Perfection",
+      "quantity" : 3,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNJHxYLLNigpnoY2E" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Paul’s Smith Sneaker InWhite Color",
+      "quantity" : 4,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNLB8YnLObYP5QMKE" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Set 30 Piece Korea StartSkin Natural Mask",
+      "quantity" : 5,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNMuK208sF5KUaTAy" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Ciate Palemore Lipstick Bold Red Color",
+      "quantity" : 4,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNOfJ7nA8JnC4haKX" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "MVMTH Classical Leather Watch In Black 6",
+      "quantity" : 3,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNQV008wvgE2cFp7S" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Sound Intone I65 Earphone White Version",
+      "quantity" : 2,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNS8Hffka6WjiVUcS" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Beat Spill 2.0 Wireless Speaker – White",
+      "quantity" : 5,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNTsZgscRc-VoZrOa" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "ASUS Chromebook Flip – 10.2 Inch",
+      "quantity" : 2,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNVopZh3X3HvJAbtF" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Apple Macbook Retina Display 12",
+      "quantity" : 3,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNXUeNDKZmbfac6_c" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Samsung Gear VR Virtual Reality Headset",
+      "quantity" : 4,
+      "total" : 410,
+      "unit_price" : 205
+    },
+    "-M5dNZ44tEF89fUpvgDC" : {
+      "client" : "rogelius",
+      "commision" : 328,
+      "id_order" : 1,
+      "id_payment" : "123DSDA",
+      "payment_method" : "paypal",
+      "product" : "Apple iPhone Retina 6s Plus 64GB",
+      "quantity" : 5,
+      "total" : 410,
+      "unit_price" : 205
+    }
+  }
+
+}
